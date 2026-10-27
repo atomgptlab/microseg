@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# microseg outputs (regenerated, not versioned)
+dataset/
+model_preds/
+model_results/
+sam3_results/
+*.npy
+*.vasp

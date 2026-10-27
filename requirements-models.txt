@@ -1,0 +1,13 @@
+# segmentation models and scoring
+torch>=2.7
+transformers>=5.2
+accelerate
+numpy
+scipy
+pillow
+matplotlib
+scikit-image
+cellpose>=4.0
+git+https://github.com/facebookresearch/segment-anything.git
+git+https://github.com/constantinpape/torch-em.git
+git+https://github.com/computational-cell-analytics/micro-sam.git

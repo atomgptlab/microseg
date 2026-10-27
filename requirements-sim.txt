@@ -1,0 +1,10 @@
+# dataset generation (abTEM multislice)
+numpy==2.1.3
+abtem==1.0.0b32
+ase
+scipy
+pillow
+matplotlib
+requests
+scikit-image
+cupy-cuda12x  # optional, for --device gpu
